@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
-   sodipodi:docname="iLLM-1.0.svg"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="2.0334082"
-     inkscape:cx="182.94409"
-     inkscape:cy="85.816514"
+     inkscape:cx="182.94408"
+     inkscape:cy="86.308298"
      inkscape:window-width="1662"
      inkscape:window-height="1078"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g6" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs1" />
   <g
@@ -42,21 +42,22 @@
      transform="translate(-4.8613905,-9.415768)">
     <g
        id="g6"
-       inkscape:label="Text">
+       inkscape:label="Text"
+       style="fill:#f9f9f9">
       <text
          xml:space="preserve"
-         style="font-size:29.3814px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans';writing-mode:lr-tb;direction:ltr;fill:#75a928;stroke:#000000;stroke-width:1.73513;stroke-linecap:round"
+         style="font-size:29.3814px;font-family:'Ubuntu Sans';-inkscape-font-specification:'Ubuntu Sans';writing-mode:lr-tb;direction:ltr;fill:#f9f9f9;stroke:#000000;stroke-width:1.73513;stroke-linecap:round"
          x="11.648884"
          y="30.217804"
          id="text1"
          inkscape:label="LLM"><tspan
            sodipodi:role="line"
            id="tspan1"
-           style="font-size:29.3814px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.73513"
+           style="font-size:29.3814px;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.73513"
            x="11.648884"
            y="30.217804"> LLM-1.0</tspan></text>
       <path
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.439062;stroke-linecap:round"
+         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.439062;stroke-linecap:round"
          d="m 14.126531,30.220801 -0.0035,-15.22843 2.196333,0.007 -0.0068,15.22684 z"
          id="path1"
          sodipodi:nodetypes="ccccc"
@@ -66,7 +67,7 @@
        id="g7"
        inkscape:label="Jumping Dot">
       <ellipse
-         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14724;stroke-linecap:round"
+         style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.14724;stroke-linecap:round"
          id="path2"
          cx="8.9381371"
          cy="14.832198"
@@ -103,6 +104,6 @@
          id="tspan7"
          style="stroke-width:1"
          x="47.920872"
-         y="38.102753"></tspan></text>
+         y="38.102753" /></text>
   </g>
 </svg>
